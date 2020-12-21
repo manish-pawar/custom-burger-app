@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635507458715",
+    "project_id": "mandy-oburg",
+    "storage_bucket": "mandy-oburg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635507458715:android:fbab768db3c4828e177c3e",
+        "android_client_info": {
+          "package_name": "com.manishpawar.o_burgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635507458715-b1mhvmrbeenhcava17dlavpleefsht70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB35pZDp0QrJMdE-Il1tX6kLE6hskisz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635507458715-b1mhvmrbeenhcava17dlavpleefsht70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
